@@ -1,6 +1,6 @@
 # Hardware-Experiment
 
-# Ideal sampling
+# Ideal sampling 
 ![WhatsApp Image 2025-04-29 at 09 17 29_654c28ac](https://github.com/user-attachments/assets/41583cf3-94c3-4f03-aed0-0f2f581a4e4c)
 
 # Natural Sampling
